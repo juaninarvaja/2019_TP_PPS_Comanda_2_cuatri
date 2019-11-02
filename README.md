@@ -8,7 +8,7 @@
         -Home
         -Splash
     <li>Perez Hernan:</li> 
-        -ALTA usuarios
+        -ALTA dueño/supervisor
     <li>Narvaja Juan Ignacio:</li>
         -ALTA producto
         -ALTA mesa
